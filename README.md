@@ -1,4 +1,4 @@
-# Market_Basket_analysi
+# Market_Basket_analysis
 My latest data analytics project — an interactive web application that brings together data mining, association rule learning, NLP, and recommendation systems into one seamless experience.
 
 🛒 Dataset: Grocery sales dataset
