@@ -1,0 +1,30 @@
+What is Apriori Algorithm?
+
+Apriori algorithm finds sets of items that appear together frequently, and then builds rules like If a customer buys X, they also buy Y.
+
+It helps you find patterns, co-occurring items, and hidden relations in large datasets — mainly used in market basket analysis.
+
+Why it is called Apriori?
+Because it uses a-priori knowledge:
+  If an itemset is frequent, then all its subsets must also be frequent.
+  If a subset is not frequent, the larger set containing it cannot be frequent.
+
+How it Works?
+It mathematically uses support and confidence.
+
+Support - Support tells you how frequently an item or itemset appears in the dataset.
+Formula:S = Number of transactions containing A​/ Total number of transction.
+
+Confidence - Confidence tells you how often items in B are bought when items in A are              bought.It is used for rules like:
+             𝐴→𝐵
+Formula: C = Support of (AUB)/ Support of A.
+
+Lift - Lift measures how much more likely items A and B are bought together compared to        their independent probabilities.
+       L = Support of (AUB)/ Support of A * Support of B
+
+Lift > 1 → Strong positive association
+Lift = 1 → No association
+Lift < 1 → Negative association
+
+* Lift tells you if items are actually related or just coincidentally purchased together.
+
