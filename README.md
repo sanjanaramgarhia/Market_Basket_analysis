@@ -22,8 +22,8 @@ About Me & Contact
 📊 2. Market Basket Analysis (Apriori)
 
 Users can input:
-✔ Minimum Support
-✔ Minimum Confidence
+Minimum Support,
+Minimum Confidence
 
 The app then generates:
 
