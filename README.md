@@ -71,11 +71,11 @@ Contact information for collaboration
 
 💡 What I Learned
 
-✔ Understanding association rule mining deeply
-✔ Building a complete end-to-end ML web app
-✔ NLP basics using NLTK + TF-IDF
-✔ Frontend structuring & user-experience design
-✔ Implementing real-world retail analytics logic
+ Understanding association rule mining deeply,
+Building a complete end-to-end ML web app,
+NLP basics using NLTK + TF-IDF,
+Frontend structuring & user-experience design,
+Implementing real-world retail analytics logic.
 
 🎯 Why This Matters
 
